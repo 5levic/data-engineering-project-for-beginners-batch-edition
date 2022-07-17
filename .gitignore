@@ -5,6 +5,7 @@
 Session.vim
 .netrwhist
 *~
+.vscode/
 
 ### SublimeText ###
 # cache files for sublime text
